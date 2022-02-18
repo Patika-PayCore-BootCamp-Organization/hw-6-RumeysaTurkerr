@@ -1,6 +1,6 @@
 # hw-6-RumeysaTurkerr
-##Homework 6 is done for Patika Pacore Java Spring Bootcamp
-###Questions
+## Homework 6 is done for Patika Pacore Java Spring Bootcamp
+### Questions
 1 – What is the difference between manual testing and automated testing ?
 
 2 – What does Assert class ?
